@@ -1,5 +1,5 @@
 #pragma once
-#include "BlobExports.h"
+//#include "BlobExports.h"
 
 
 #include <MyApplication1.h>
