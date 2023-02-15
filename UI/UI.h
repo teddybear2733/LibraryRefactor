@@ -8,7 +8,7 @@
 /// <summary>
 /// This class has the UI functionality for our Application
 /// </summary>
-class BLOBLIBRARY_API UI
+class UI_API UI
 {
 public:
 

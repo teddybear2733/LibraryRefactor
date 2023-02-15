@@ -1,0 +1,2 @@
+#define BI_API __declspec(dllexport)
+#define BI_API __declspec(dllimport)
